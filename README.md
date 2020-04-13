@@ -3,7 +3,7 @@ A Marlin firmware configuration wizard (for 3D printers)
 
 Marlon was made in order to make the configuration of Marlin firmware easier to keep up to date.
 
-In the .exe file you will find:
+Inside the application file you will find:
 
   Automatic setting transfer - Transfers all your old configuration.h and configuration_adv.h automatically without the chance of causing any compilation errors!
   
